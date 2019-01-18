@@ -1,0 +1,29 @@
+{
+  "name": "react-hacker-news-reader",
+  "version": "1.0.0",
+  "description": "PWA  Hacker News Reader featuring React, Styled JSX, Server Side Rendering and Next.JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3daddict/react-hacker-news-reader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3daddict/react-hacker-news-reader/issues"
+  },
+  "homepage": "https://github.com/3daddict/react-hacker-news-reader#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^7.0.2",
+    "now": "^13.1.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
